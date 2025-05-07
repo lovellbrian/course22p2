@@ -55,6 +55,7 @@ fastkaggle==0.0.8
 fastprogress==1.0.3
 ffmpy==0.3.1
 filelock==3.13.1
+ffmpeg-python==0.2.0
 fonttools==4.44.0
 fqdn==1.5.1
 frozenlist==1.4.1
